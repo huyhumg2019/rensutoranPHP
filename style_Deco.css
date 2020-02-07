@@ -1,0 +1,307 @@
+img {
+ border: 0;
+ vertical-align: bottom;
+}
+
+h1,h2,h3,h4,h5,h6{
+ margin: 0;
+}
+#header img {
+ width: 508px;
+}
+
+#header h1 {
+ margin: 0;
+ padding-top: 25px;
+ font-size: 16px;
+ color: #4286f4;
+}
+
+#header h2 {
+ padding: 5px;
+ font-size:16px;
+ color: #FFF;
+ padding-right: 6px;
+ padding-left: 6px;
+ background: blue;
+ border: 1px solid #C1C1C1;
+}
+
+#header #pr p{
+ margin: 0;
+ font-size: 1.2em;
+
+}
+
+#header #contact li {
+ list-style: none;
+ float: left;
+ font-size: 1em;
+ margin-left: 15px;
+}
+
+#header #contact .tel {
+ color: #YYYYYY;
+ font-size: XXpx;
+ font-weight: bold;
+ letter-spacing: -1px;
+ line-height: 1.0;
+}
+
+#menu li {
+ padding-top: 25px;
+ color: #YYYYYY;
+ text-align: center;
+ list-style-type: none;
+}
+
+#menu li a {
+ display: block;
+ width: 129px;
+ line-height: 40px;
+ border-collapse: collapse;
+ border: 1px solid #D8D8D8;
+ font-weight: bold;
+ font-size: 16px;
+ white-space: nowrap;
+}
+
+menu li a:hover {
+ color: #YYYYYY;
+ z-index: 100;
+}
+
+#content {
+ clear: both;
+}
+
+#main {
+ padding: 1px;
+ font-size: 1em;
+ color: #YYYYYY;
+ padding-right: 6px;
+ padding-left: 6px;
+ background: #YYYYYY;
+ border: 1px solid #C1C1C1;
+ text-align: center;
+}
+
+#main a:hover {
+ color: #e0e7f4;
+ text-decoration: underline;
+}
+#main  h2{
+ margin-bottom: 8px;
+ padding: 0 0 0 10px;
+ color: #YYYYYY;
+ font-family: Georgia,"MS –¾’©","Hiragino Mincho Pro W3","ƒqƒ‰ƒMƒm–¾’© Pro W3",serif;
+ font-size: 16px;
+ line-height: 28px;
+ border: 1px solid #D8D8D8;
+ 
+}
+
+#main h3 {
+ margin-bottom: 3px;
+ padding-left: 10px;
+ font-size: 16px;
+ border-bottom: 1px solid #999;
+}
+
+#main h4{
+ margin-bottom: 2px;
+ padding: 2px;
+ font-size: 16px;
+ background: #YYYYYY;
+ color: #YYYYYY;
+}
+
+#main h5 {
+ margin-bottom: 2px;
+ font-size: 16px;
+ border-bottom: 1px solid #5A382B;
+}
+
+#main h6 {
+ margin-bottom: 2px;
+ font-size: 16px;
+}
+
+#main p {
+ margin: 0 0 1em 0;
+ font-size: 14px;
+}
+
+#main ul,ol,dl {
+ font-size: 14px;
+}
+#main dt {
+ margin-bottom: 3px;
+}
+
+#main dd {
+ padding: 0;
+ margin: 0 0 0.5em 1em;
+ padding: 3px;
+ background: #YYYYYY;
+}
+
+#main dl.information dt {
+ float: left;
+ margin: 0;
+ padding: 0;
+}
+
+#main dl.information dd {
+ margin: 5px 0;
+ padding: 0 0 0.5em 8em;
+}
+
+#main table {
+ width: 100%;
+ border-collapse: collapse;;
+}
+
+#main table th {
+ padding: 5px;
+ font-size: 16px;
+ text-align: center;
+ border: 1px solid #ddd;
+ background: #YYYYY;
+}
+
+#main table td {
+ padding: 5px;
+ font-size: 14px;
+ text-align: center;
+ border: 1px solid #ddd;
+}
+
+#main table.input th {
+ padding: 5px;
+ font-size: 16px;
+ text-align: center;
+ border: 1px solid #ddd;
+ background: #YYYYYY;
+ width: 180px;
+}
+
+#main table.input td {
+ padding: 5px;
+ font-size: 14px;
+ text-align: left;
+ border: 1px solid #ddd;
+}
+
+#main table td.number {
+ text-align: right;
+}
+
+#main img.small {
+ width: 180px;
+}
+#main img.middle {
+ width: 240px;
+}
+
+#main img.big {
+ width: 540px;
+}
+
+#main .submit_a{
+ float: left;
+ padding: 1px;
+ font-size: XXpx;
+ color: #ffffff;
+ padding-right: 6px;
+ padding-left: 6px;
+ background: #YYYYYY;
+ border: 1px solid #c1c1c1;
+ text-align: center;
+}
+
+#main .error {
+ color: #ff0000;
+ font-weight: bold;
+}
+
+#contents h2.host {
+ margin-bottom: 8px;
+ padding: 0 0 0 10px;
+ color: #5a382b;
+ font-family:  Georgia,"MS –¾’©","Hiragino Mincho Pro W3","ƒqƒ‰ƒMƒm–¾’© Pro W3",serif;
+ font-size: XXpx;
+ font-weight: bold;
+ line-height: 28px;
+ border: 1px solid #d8d8d8;
+}
+
+#contents  table.host {
+ width: 100%;
+ border-collapse: collapse;
+}
+
+#contents table.host th {
+ padding: 5px;
+ font-size: XXpx;
+ text-align: center;
+ border: 1px solid #ddd;
+ background: #YYYYYY;
+ white-space: nowrap;
+}
+
+#contents table.host td {
+ padding: 5px;
+ font-size: XXpx;
+ text-align: left;
+ border: 1px solid #ddd;
+}
+
+#content .submit_a {
+ float: right;
+ padding: 1px;
+ font-size: XXpx;
+ color: #ffffff;
+ padding-right: 6px;
+ padding-left: 6px;
+ background: #YYYYYY;
+ border: 1px solid #C1C1C1;
+ text-align: center;
+ white-space: nowrap;
+}
+
+#side {
+ background: #YYYYYY;
+}
+
+#side section {
+ margin-bottom: 10px;
+}
+
+#side h2 {
+ padding: 3px;
+ font-size: 1em;
+ font-weight: bold;
+ color: #fff;
+ padding-left: 10px;
+ background: #1269ba;
+ border-bottom: 1px solid #C1C1C1;
+ border-right: 1px solid #C1C1C1;
+ text-align: center;;
+}
+
+#side ul {
+ margin: 5px 0 0 5px;
+ padding: 0;
+}
+
+#side li {
+ padding: 5px 0 5px 0;
+ line-height: 1.4;
+ list-style: none;
+}
+
+#side li a {
+ display: block;
+ padding-left: 12px;
+}
